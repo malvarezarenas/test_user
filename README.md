@@ -2,6 +2,15 @@
 
 Api RESTful, creado con bd h2, maven, hibernate,Swagger y utilizando SpringBoot.
 
+Como ejecutar la aplicacion?
+
+- en la terminal de tu ide, colocar primero mvn install, luego mvn spring-boot:run
+
+<img width="583" alt="image" src="https://user-images.githubusercontent.com/30278429/233253887-9d1c793f-eff5-43b2-b460-38ceca885a3e.png">
+
+
+
+
 Para realizar prueba debe ejecutar mediante Postman 
 <img width="755" alt="image" src="https://user-images.githubusercontent.com/30278429/233252397-2f7ca567-da64-4c57-8a5c-4428f9392b1f.png">
 
